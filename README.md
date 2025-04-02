@@ -114,12 +114,14 @@ influyen en el riesgo de ictus.
 
 Se considerarán los siguientes criterios:  
 
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
+Competencia:  Modificar los parámetros y componentes de la inteligencia artificial para mejorar su rendimiento:
+
+✅ Optimización de Hiperparámetros    
+✅ Aplica técnicas de regularización  
+✅ Conocer las métricas de evaluación típicas de cada tipo de problema (MSE, Recall, F1, etc)    
+✅ Tratamiento de Datos Desbalanceados    
+✅ Selecciona el modelo adecuado   
+✅ Visualización de resultados y métricas   
 
 Más detalles en: [roadmap-mad-ai-p4.coderf5.es](https://roadmap-mad-ai-p4.coderf5.es/)  
 
